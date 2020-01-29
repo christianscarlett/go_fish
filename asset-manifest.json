@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/go_fish/static/css/main.074da1ab.chunk.css",
-    "main.js": "/go_fish/static/js/main.973dde54.chunk.js",
-    "main.js.map": "/go_fish/static/js/main.973dde54.chunk.js.map",
+    "main.css": "/go_fish/static/css/main.9df8f545.chunk.css",
+    "main.js": "/go_fish/static/js/main.0cdfaeeb.chunk.js",
+    "main.js.map": "/go_fish/static/js/main.0cdfaeeb.chunk.js.map",
     "runtime-main.js": "/go_fish/static/js/runtime-main.4ea5d8af.js",
     "runtime-main.js.map": "/go_fish/static/js/runtime-main.4ea5d8af.js.map",
     "static/js/2.20985ef3.chunk.js": "/go_fish/static/js/2.20985ef3.chunk.js",
     "static/js/2.20985ef3.chunk.js.map": "/go_fish/static/js/2.20985ef3.chunk.js.map",
     "index.html": "/go_fish/index.html",
-    "precache-manifest.cc059cdd5532a1cd0571452ab891f189.js": "/go_fish/precache-manifest.cc059cdd5532a1cd0571452ab891f189.js",
+    "precache-manifest.d21572e969a42845a53e1689eb60a79f.js": "/go_fish/precache-manifest.d21572e969a42845a53e1689eb60a79f.js",
     "service-worker.js": "/go_fish/service-worker.js",
-    "static/css/main.074da1ab.chunk.css.map": "/go_fish/static/css/main.074da1ab.chunk.css.map",
+    "static/css/main.9df8f545.chunk.css.map": "/go_fish/static/css/main.9df8f545.chunk.css.map",
     "static/js/2.20985ef3.chunk.js.LICENSE": "/go_fish/static/js/2.20985ef3.chunk.js.LICENSE",
     "static/media/10C.png": "/go_fish/static/media/10C.19635027.png",
     "static/media/10D.png": "/go_fish/static/media/10D.39ef422e.png",
@@ -81,7 +81,7 @@
   "entrypoints": [
     "static/js/runtime-main.4ea5d8af.js",
     "static/js/2.20985ef3.chunk.js",
-    "static/css/main.074da1ab.chunk.css",
-    "static/js/main.973dde54.chunk.js"
+    "static/css/main.9df8f545.chunk.css",
+    "static/js/main.0cdfaeeb.chunk.js"
   ]
 }

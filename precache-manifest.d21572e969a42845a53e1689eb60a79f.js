@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "45636a9c94f724993d0e853e13c13ddf",
+    "revision": "1cf2bad16d023110c88d6506814c7423",
     "url": "/go_fish/index.html"
   },
   {
-    "revision": "1f2ce08fb93de42d9078",
-    "url": "/go_fish/static/css/main.074da1ab.chunk.css"
+    "revision": "389c60da941c355040a0",
+    "url": "/go_fish/static/css/main.9df8f545.chunk.css"
   },
   {
     "revision": "1100fb045cbea08c183b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/go_fish/static/js/2.20985ef3.chunk.js.LICENSE"
   },
   {
-    "revision": "1f2ce08fb93de42d9078",
-    "url": "/go_fish/static/js/main.973dde54.chunk.js"
+    "revision": "389c60da941c355040a0",
+    "url": "/go_fish/static/js/main.0cdfaeeb.chunk.js"
   },
   {
     "revision": "7a60f0c9726a710c0d86",
